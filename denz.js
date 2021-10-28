@@ -361,7 +361,7 @@ try {
 			wait: 'Wait a minute',
 			success: 'Success',
 			prem: 'untuk user prem',
-			ban: 'maap kamu sudah di ban'
+			ban: 'maap kamu sudah di ban',
 			emror: {
 				stick: 'Cannot access videos!',
 				Iv: 'Invalid link!',
