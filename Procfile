@@ -1,1 +1,1 @@
-worker : npm i @adiwajshing/baileys && node index.js
+worker : node index.js
