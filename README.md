@@ -6,7 +6,7 @@ note :
 kalo recode jgn hapus thanks to jgn di hapus ya kak,
 edit semua di setting.json sama ada beberapa fitur prem dan untuk anak jb jangan di jual kalo di jual gw encrypt sc ny.
 
-thanks to
+thanks to :
 arasya rafi,
 rafli rusdiana,
 dcode denpa,
