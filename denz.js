@@ -112,6 +112,8 @@ alasanafk = 'Nothing'
 NamaBot = settings.NamaBot
 NomorOwner = settings.NomorOwner
 NamaOwner = settings.NamaOwner
+agama = settings.agama
+ultah = settings.ultah
 multi =false
 nopref = false
 allpref = true
@@ -1027,7 +1029,7 @@ case 'allmenu':
 			num = await fetchJson(`https://numlookupapi.com/api/validate/${senderNumber}`, {method: 'get'})
 			menu = `
 	${lyy}Info Owner
-	Nama Owner : ${settings.NamaOwner}
+	Nama Owner : ${NamaOwner}
 	Nomor Owner : @${xyinnzz.split('@')[0]}
 	Agama : ${settings.agama}
 	Ultah : ${settings.ultah}
@@ -1037,7 +1039,7 @@ case 'allmenu':
   Bio : ${stst}
   Nomor : ${xyan.split('@')[0]}
   Info Nomor : ${num.line_type} - ${num.country_name} - ${num.carrier}
-  Status : ${isOwner ? 'Raja' : 'Babu'}
+  Status : ${isOwner ? 'Raja' : 'Babu'} ${lyy}
 	
  *Owner*
  • ${prefix}stopjadibot
