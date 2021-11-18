@@ -10,6 +10,9 @@ rafli rusdiana,
 dcode denpa,
 xyann.
 
+link node modules :
+http://slynk.xyz/Wwz
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
